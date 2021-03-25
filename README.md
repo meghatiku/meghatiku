@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-  🔭 I’m currently working on improving myself :woman_technologist: <br><br>
+  🔭 I am currently working on improving myself :woman_technologist: <br><br>
   🌱 Languages and Tools :hammer:
  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
