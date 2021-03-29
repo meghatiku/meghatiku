@@ -14,6 +14,6 @@
    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 
-### _⚡Nothing Worth Having Comes Easy!⚡_
+### _⚡ Nothing Worth Having Comes Easy! ⚡_
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api/?username=meghatiku&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&hide=issues,stars&hide_title=true)--->
