@@ -1,7 +1,9 @@
 
-### Hi there 👋
-
-  #### 🔭 I am currently working on improving myself 👩🏻‍💻 <br><br>
+<h1 align="center">Hi 👋, I'm Megha (मेघा)  ⛈️ </h1>
+<h3 align="center">A backend end developer from India 🇮🇳</h3>
+<br><br>
+ <h4> 🔭 I am currently working on improving myself 👩🏻‍💻 <br><br> </h3>
+  
   
 <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=meghatiku&stroke=170404&fire=70A172&ring=DD502AE9&currStreakLabel=1C396E&border=black" />
@@ -51,6 +53,8 @@
   <br>
 
 </p> 
+
+<p align="right"> <img src=https://komarev.com/ghpvc/?username=meghatiku alt=meghatiku/> </p>
 
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api/?username=meghatiku&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&hide=issues,stars&hide_title=true)--->
