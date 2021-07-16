@@ -5,9 +5,9 @@
  <h4> 🔭 I am currently working on improving myself 👩🏻‍💻 <br><br> </h3>
   
   
-<p align="center">
+<!-- <p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=meghatiku&stroke=170404&fire=70A172&ring=DD502AE9&currStreakLabel=1C396E&border=black" />
-</p> 
+</p>  -->
   
 #### 🌱 Languages and Tools 🛠
 
