@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Megha (मेघा)  ⛈️ </h1>
+<h1 align="center">Hi 👋! I'm Megha (मेघा)  ⛈️ </h1>
 <h3 align="center">A backend end developer from India 🇮🇳</h3>
 <br><br>
  <h4> 🔭 I am currently working on improving myself 👩🏻‍💻 <br><br> </h3>
