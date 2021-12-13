@@ -46,13 +46,13 @@
 <!-- ### _⚡ Nothing Worth Having Comes Easy! ⚡_ -->
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=meghatiku&title=Commit&theme=onedark) -->
-#### ⚡ Programming Quote of The Day! ⚡
+<!-- #### ⚡ Programming Quote of The Day! ⚡
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?"/>
   <br>
 
-</p> 
+</p>  -->
 
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=meghatiku alt=meghatiku/> </p>
 
