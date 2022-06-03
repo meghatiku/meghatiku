@@ -46,15 +46,15 @@
 <!-- ### _⚡ Nothing Worth Having Comes Easy! ⚡_ -->
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=meghatiku&title=Commit&theme=onedark) -->
-<!-- #### ⚡ Programming Quote of The Day! ⚡
+ #### ⚡ Programming Quote of The Day! ⚡
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?"/>
   <br>
 
-</p>  -->
+</p> 
 
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=meghatiku alt=meghatiku/> </p>
 
 
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api/?username=meghatiku&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&hide=issues,stars&hide_title=true)--->
+<!--![Github stats](https://github-readme-stats.vercel.app/api/?username=meghatiku&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&hide=issues,stars&hide_title=true)-->
