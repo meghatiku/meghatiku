@@ -15,6 +15,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-white?style=flat-square&logo=gnu-bash)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)&nbsp;
+![Golang](https://img.shields.io/badge/-Go-white?style=flat-square&logo=go)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
